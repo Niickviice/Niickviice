@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niickviice
-- 👀 I’m interested in web devepoler
+- 👀 I’m interested in web developer
 - 🌱 I’m currently learning JAVA and Node.JS
 - 💞️ I’m looking to collaborate on web applications 
 - 📫 How to reach me: nickviice@gmail.com
