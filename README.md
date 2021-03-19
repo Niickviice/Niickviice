@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niickviice
+- 👋 Hi, I’m @Alan_Martínez
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning JAVA and Node.JS
 - 💞️ I’m looking to collaborate on web applications 
